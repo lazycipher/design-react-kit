@@ -6,7 +6,7 @@
 Fixes #
 
 #### PR Checklist
-
+<!-- To Mark a Checklist box, put "x" inside the square brackets. For Example - [ ] becomes [x] -->
 - [ ] I have read the [Contribution Guide](CONTRIBUTING.md) and my PR follows them.
 - [ ] My branch is up-to-date with the Upstream `development` branch.
 - [ ] The unit tests pass locally with my changes <!-- use `nosetests tests/all` to run all the tests -->
